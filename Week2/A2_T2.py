@@ -1,0 +1,6 @@
+print("Program starting.")
+Make = input("Insert car brand: ")
+Model = input("Insert car model: ")
+print(f"Car brand is \"{Make}\" ",end="")
+print("and the model is ", f"{Model}", ".",sep="'")
+print("Program ending.")
